@@ -41,7 +41,7 @@ public class MainModel implements IMainModel {
         sendIdentifyingCodeRequest.addRequestFormParam(APIKey.USER_MOBILE, mobile);
         return sendIdentifyingCodeRequest;*/
     }
-
+ /////
     @Override
     public void getSideCategory() {
 
