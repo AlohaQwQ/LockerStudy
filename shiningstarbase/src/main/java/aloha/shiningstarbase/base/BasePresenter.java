@@ -15,7 +15,7 @@ public abstract class BasePresenter<V extends IBaseView> implements IBasePresent
 
     //传递view
     private WeakReference<V> mView;
-
+//
     /**
      * Created by Aloha <br>
      * @Date 2016/9/29 14:15
